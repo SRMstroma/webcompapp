@@ -1,0 +1,9 @@
+urllib
+gspread
+ServiceAccountCredentials
+datetime
+time
+OAuth1Session
+tweepy
+requests
+tqdm
